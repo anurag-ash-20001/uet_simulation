@@ -1,5 +1,5 @@
 # UET / libfabric v2.0 Complete Simulation
-## Ultra Ethernet Consortium Specification §2.2 (pages 66-121)
+## Ultra Ethernet Consortium Specification 
 
 ---
 
@@ -124,6 +124,3 @@ make run    # compile and run all 20 tests
 | Atomic Extension | fi_atomic() operations |
 | Compare-and-Swap | fi_compare_atomic() |
 | Response | SES ACKs / data responses |
-# uet_simulation
-# uet_simulation
-# uet_simulation
